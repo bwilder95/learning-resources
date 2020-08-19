@@ -40,3 +40,5 @@ __AGU__: American Geophysical Union
 __NCSA__ - National Center for Supercomputing Applications at University of Illinois at Urbana-Champaign.
 
 __ROGER__ - Resourcing Open Geospatial Education and Research and the Father of GIS, Roger Tomlinson) is the world's first-ever CyberGIS Supercomputer designed especially for computationally intensive geospatial data processing and analysis. ROGER is managed by NCSA at the CyberGIS Center for Advanced Digital and Spatial Studies
+
+__SUMMA__: Structure for Unifying Multiple Modeling Alternatives
